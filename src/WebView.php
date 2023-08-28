@@ -33,7 +33,7 @@ class WebView {
    <title>Log Analyzer</title>
    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet' />
    <link rel="stylesheet" href="//cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-   <link rel="stylesheet" href="./assets/css/style.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rizsyad/LogAnalyzer@1.0.0/src/assets/css/style.css">
 </head>
 
 <body>
@@ -262,7 +262,7 @@ class WebView {
    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
    <script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-   <script src="./assets/js/style.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/rizsyad/LogAnalyzer@1.0.0/src/assets/js/style.js"></script>
 </body>
 
 </html>
