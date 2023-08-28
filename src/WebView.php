@@ -239,7 +239,7 @@ class WebView {
                         <td><?= $value["response_code"]  ?? "" ?></td>
                         <td><?= $value["bytes_sent"]  ?? "" ?></td>
                         <td><?= $value["request_headers"]["Referer"]  ?? "" ?></td>
-                        <td><?= $value["request_headers"]["Useragent"]  ?? "" ?></td>
+                        <td><?= $value["request_headers"]["User-Agent"]  ?? "" ?></td>
 
                      </tr>
                      <?php endforeach; ?>
