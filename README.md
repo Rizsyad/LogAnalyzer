@@ -84,11 +84,9 @@ Array
     [referer] => Array
         (
             [null] => 5481
-            [isci.my.id] => 2618
             [www.google.com] => 839
             [www.usatoday.com] => 827
             [engadget.search.aol.com] => 794
-            [raffidev.com] => 7
             [127.0.0.1] => 6
             [localhost] => 6
             [l.instagram.com] => 3
