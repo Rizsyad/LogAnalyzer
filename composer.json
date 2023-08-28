@@ -1,0 +1,27 @@
+{
+    "name": "rizsyad/loganalyzer",
+    "description": "Apache2 access and error logs analyzer",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rizsyad AR",
+            "email": "rizsyad@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rizsyad/LogAnalyzer"
+        }
+    ],
+    "require": {
+        "mvar/apache2-log-parser": "dev-master",
+        "donatj/phpuseragentparser": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rizsyad\\LogAnalyzer\\": "src/"
+        }
+    }
+}
